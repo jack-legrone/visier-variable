@@ -12,7 +12,7 @@ For web, the .ttf file with work on most browsers. Modification can be made to b
 ```
 @font-face {
 font-family: ‘Visier Variable’;
-src: url('Visier.ttf');
+src: url('Visier.woff2');
 font-weight: 100 400;
 }
 
